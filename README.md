@@ -9,28 +9,23 @@
   ##
   
 <div style="display: inline_block">
-<!--   <img align="center" alt="Ja-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Ja-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Ja-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Ja-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ja-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ja-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg">
-  <img align="center" alt="Ja-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ja-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ja-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  -->
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="rails" width="40" height="30" style="max-width:100%;"></img>
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="rails" width="40" height="30" style="max-width:100%;"></img>
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="rails" width="40" height="30" style="max-width:100%;"></img>
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="rails" width="40" height="30" style="max-width:100%;"></img>
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="rails" width="40" height="30" style="max-width:100%;"></img>
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="rails" width="40" height="30" style="max-width:100%;"></img>
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="rails" width="40" height="30" style="max-width:100%;"></img>
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="rails" width="40" height="30" style="max-width:100%;"></img>
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="rails" width="40" height="30" style="max-width:100%;"></img>
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="rails" width="40" height="30" style="max-width:100%;"></img>
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="rails" width="40" height="30" style="max-width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="rails" width="40" height="40" style="max-width:100%;" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+   <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="rails" width="40" height="30" style="max-width:100%;" />
   <img align="right" src="https://i.picasion.com/pic91/88dabc48f2e1f1412e6777b30537003e.gif" width="150" height="150" alt="Gif-Jamily">
 </div>
   
